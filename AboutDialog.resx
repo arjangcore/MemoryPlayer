@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 1.3
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">1.3</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1">this is my long string</data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        [base64 mime encoded serialized .NET Framework object]
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        [base64 mime encoded string representing a byte array form of the .NET Framework object]
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used forserialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="pictureBox1.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="pictureBox1.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="pictureBox1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAThJREFUWEftVtsN
+        gzAM5IMZGIAV2IB/ZmD/KaCuFOQYP86J8gdSpaq92HfO2WaavmdABeZ5vrRPd6plWdTAlIyCe/8XQq0k
+        zMSWWu/3FAlElUy2ruu/IuXZtu0lACKRuUegxBUJhEB1gFQghzwMFxTGkuqtA5mgGeyEglEcCYCxHLjv
+        u1t6NOh5nrgH0KAZVTym7JLX9VoEFKc/qkgh4pMytFwTogTQSqG4hxRT2n3/6eT8Xn/fmwmQeXny1BxB
+        WXMc88Br7Hr+UL2AEpBdoI3uqI27CVgkoutzu4BvQAd4kbrjOLp3hFsFIiMB1q4PF0wGEM0CjUQ44VoJ
+        cCNpxDKmzXBQt1dUmVQCACw3mGq4YRUggvKdUPY1+uICiLUhluuV5GNaslCLiHSpTByufNE0ahPJPujw
+        CtxykDTLJ4W67QAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="label1.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="label1.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="label1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="pictureBox2.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="pictureBox2.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="pictureBox2.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAWJJREFUWEftls0N
+        gzAMhanEDAzACmzAnRnYf4qWoCRKHP88QyMuVOLSJPZn+znxZxzH4dFfAHjy6+X8ewTFfY0/F8A0TZLh
+        8P9grKezlU8I4NCI5vjKWvZrAoBRVRDzPJ8ZSd+yLGI5LACojtERm+IEwWTx9C0C0AMxCgvYWi8D0gEY
+        FUvGG6NKW18G0CLrApCNrutaCYqJDgLY953qSS0BZJSIDwYtu8Rb10rppVBjhIi9ChQ5UO6hrYZmStyn
+        AsQI7wpQhewGEMWbnUv3iLcEdH92kDTAvRuaPu4ChPPqY2S18T8AWAhAP/I9QF5AFjI4CNFt22b1v/o+
+        mAqPMGLtSQmsx6hZNwGiA+4uaGpP5wBk1oQAiJC4vkYvJFcGqLjSYcmZOpBI2dAFQmZBRdndMtBMukxf
+        s88sUn91JCMG1MsmdQLa+6Vtb9tYIF578lAqiobowrpqrVK4iS2D3vUX4Af+U1YUjFsVdwAAAABJRU5E
+        rkJggg==
+</value>
+  </data>
+  <data name="label2.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="label2.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="label2.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="label3.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="label3.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="label3.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="label4.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="label4.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="label4.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="label5.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="label5.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="label5.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="buttonClose.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="buttonClose.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="buttonClose.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="$this.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>(Default)</value>
+  </data>
+  <data name="$this.TrayLargeIcon" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="$this.Localizable" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="$this.GridSize" type="System.Drawing.Size, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>8, 8</value>
+  </data>
+  <data name="$this.DrawGrid" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </data>
+  <data name="$this.TrayHeight" type="System.Int32, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>80</value>
+  </data>
+  <data name="$this.SnapToGrid" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </data>
+  <data name="$this.Name">
+    <value>AboutDialog</value>
+  </data>
+  <data name="$this.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAYGAAAAAAAACoLAAAJgAAACAgAAAAAAAAqAgAAM4sAAAoAAAAYAAAAMAAAAABAAgAAAAAAAAk
+        AAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAMDAwADA3MAA8MqmAAQE
+        BAAICAgADAwMABEREQAWFhYAHBwcACIiIgApKSkAVVVVAE1NTQBCQkIAOTk5AIB8/wBQUP8AkwDWAP/s
+        zADG1u8A1ufnAJCprQAAADMAAABmAAAAmQAAAMwAADMAAAAzMwAAM2YAADOZAAAzzAAAM/8AAGYAAABm
+        MwAAZmYAAGaZAABmzAAAZv8AAJkAAACZMwAAmWYAAJmZAACZzAAAmf8AAMwAAADMMwAAzGYAAMyZAADM
+        zAAAzP8AAP9mAAD/mQAA/8wAMwAAADMAMwAzAGYAMwCZADMAzAAzAP8AMzMAADMzMwAzM2YAMzOZADMz
+        zAAzM/8AM2YAADNmMwAzZmYAM2aZADNmzAAzZv8AM5kAADOZMwAzmWYAM5mZADOZzAAzmf8AM8wAADPM
+        MwAzzGYAM8yZADPMzAAzzP8AM/8zADP/ZgAz/5kAM//MADP//wBmAAAAZgAzAGYAZgBmAJkAZgDMAGYA
+        /wBmMwAAZjMzAGYzZgBmM5kAZjPMAGYz/wBmZgAAZmYzAGZmZgBmZpkAZmbMAGaZAABmmTMAZplmAGaZ
+        mQBmmcwAZpn/AGbMAABmzDMAZsyZAGbMzABmzP8AZv8AAGb/MwBm/5kAZv/MAMwA/wD/AMwAmZkAAJkz
+        mQCZAJkAmQDMAJkAAACZMzMAmQBmAJkzzACZAP8AmWYAAJlmMwCZM2YAmWaZAJlmzACZM/8AmZkzAJmZ
+        ZgCZmZkAmZnMAJmZ/wCZzAAAmcwzAGbMZgCZzJkAmczMAJnM/wCZ/wAAmf8zAJnMZgCZ/5kAmf/MAJn/
+        /wDMAAAAmQAzAMwAZgDMAJkAzADMAJkzAADMMzMAzDNmAMwzmQDMM8wAzDP/AMxmAADMZjMAmWZmAMxm
+        mQDMZswAmWb/AMyZAADMmTMAzJlmAMyZmQDMmcwAzJn/AMzMAADMzDMAzMxmAMzMmQDMzMwAzMz/AMz/
+        AADM/zMAmf9mAMz/mQDM/8wAzP//AMwAMwD/AGYA/wCZAMwzAAD/MzMA/zNmAP8zmQD/M8wA/zP/AP9m
+        AAD/ZjMAzGZmAP9mmQD/ZswAzGb/AP+ZAAD/mTMA/5lmAP+ZmQD/mcwA/5n/AP/MAAD/zDMA/8xmAP/M
+        mQD/zMwA/8z/AP//MwDM/2YA//+ZAP//zABmZv8AZv9mAGb//wD/ZmYA/2b/AP//ZgAhAKUAX19fAHd3
+        dwCGhoYAlpaWAMvLywCysrIA19fXAN3d3QDj4+MA6urqAPHx8QD4+PgA8Pv/AKSgoACAgIAAAAD/AAD/
+        AAAA//8A/wAAAP8A/wD//wAA////AAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoAAAAAAAAAAAAACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgrs
+        FA4KCgoKCgoKCgoU7AAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoA7BAKCgoKCgoKCgoKCgoKCgoUAAoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKAOwOCgoKCgoKCgoKCgoKCgoKCgoKChQACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoADgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKAAAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK6goKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoADgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCuoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgrsCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        AAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoACgoKCgoKCgoKCgoKCg4U7OwAAOwTCgoK
+        CgoKCgoKCgoK6goKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgAOCgoKCgoKCgoKCgoUAAoKCgoACgoKAAAKCgoKCgoKCgoKCgAKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAA4KCgoKCgoKCgoKCkMK
+        CgoKCgoKCgoKCgoAQwoKCgoKCgoKCuwKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKQwoKCgoKCgoKCgoK7AoKCgoKCgoKCgoKCgoKAEMKCgoKCgoKChMK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgrrCgoK
+        CgoKCgoKCgr3CgoKCgoKCgoKCgoKCgoKCgAKCgoKCgoKChAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKABAKCgoKCgoKCgoK9woKCgpDCgoKCgpDAAoKCgoK
+        CgoACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoK6woKCgoKCgoKCgrrCgoKCgoKCgoKCgoK6goKCgoKCgoACgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoACgoKCgoKCgoKChQKCgoKCgAK
+        CgoKCgoKCgoKCgoKCgoACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgAUCgoKCgoKCgoKDgAKCgoKCuwKCgoKCgoKCgoKCgoKCgoACgoKCgoKChQK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgAKCgoKCgoK
+        CgoK7AoKCgoKCuoKCgoKCgoKCgoKCgoKCgAOCgoKCgoKCusKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKChQKCgoKCgoKCgoUCgoKCgoKChMKCgoKCgoKCgAKCgoK
+        CuoKCgoKCgoKCgAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoACgoKCgoKCuwKCgoKCgoKCg4ACgoAEwoKCgoKCgoKEAoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgAKCgoKCgoKCgAK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoK7AoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoQAAoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoK
+        AAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKEwoKCgoKCgoKAAAKCgoKCgoKCgoUCgoKCgoKCgoKCgoK
+        CgoKCgoKCgAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoACgoKCgoKCgoOCgoKCgoKCgoKCgoAQwoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoACgoKCgoKCgrrCgoKCgoKCgoKCgoK
+        AOoKCgoKCgoKCgoKCgoKCgoUCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoTCgoKCgoKCgoACgoKCgoKCgoKCgoKCgoAEAoKCgoKCgoKCgoK6gAACgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoOCgoKCgoKChAK
+        CgoKCgoKCgoKCgoKCgoKCgDsExQUFBQT7AAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgAKCgoKCgoKCuoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgDsFBQUFBTrAAAAAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CuwKCgoKCgoKCgAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgDsDgoKCgoKCgoKCgpD9wAKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCuoKCgoKCgoKCgAKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoK7A4KCgoKCgoKCgoKCgoKCg7sAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoK6goKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCuoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgpDAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoK7AoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoK7AoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCuwKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoACgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoUCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        AAoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgrqCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        AAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoOCgoKCgoKCgoKFBMUFAoKCgoKCgoKCgoKCgoKCuwKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgAKCgoKCgoKCgrqCgoKCgD3
+        FAoKCgoKCgoKCgoKCgrqCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoQCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCuwKCgoKCgoKCuwKCgoKCgoKAAAUCgoKCgoKCgoKCgoKQwAACgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoACgoKCgoKCgoKCgoKCgoKCgoKCgoKCuwKCgoK
+        CgoKEAoKCgoKCgoKAAoKAA4KCgoKCgoKCgoKCkMAAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        AAoKCgoKCgoACgoKCgoKCgoKCgoKCgoKCgoKCgoKChMKCgoKCgoKFAoKCgoKCgoKCgoKCgAUCgoKCgoK
+        CgoKCgpDAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoACgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKChQKCgoKCgoKFAoKCgoKCgoKCgoKCgoK7AoKCgoKCgoKCgoKQwAKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKAAoKCgoKCgoACgoKCgoKCgoKCgoKCgoKCgoKCgoKChMKCgoKCgoKFAoKCgoKCgoK
+        CgoKCgoKCgAOCgoKCgoKCgoKCgAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoACgoK
+        CgoKCgoKCgoAFBQACgoKCgoKCuwKCgoKCgoKDgoKCgoKCgoKCgoKCgoKCgoADgoKCgoKCgoKCgoACgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoOCgoKCgoKCgoKCuoKCgoK6woKCgoKCuwKCgoK
+        CgoKCgAKCgoKCgoKCgoKCgoKCgoKAA4KCgoKCgoKCgoK7AAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        AAoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgAKCgoKCgAKCgoKCgoKCgAKCgoKCgoKCgoKCgoKCgoKCgAO
+        CgoKCgoKCgoKCgAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKAAoKCgoK
+        CgAKCgoKCgAKCgoKCgoKCuoKCgoKCgoKCgoKCgoKCgoKCgoACgoKCgoKCgoKChAACgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKAAoKCgoKCgoKAAoKCgoKCgoKAAoKCgoKCgAKCgoKCgoOCgoKCgoKChAKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKAAoK
+        CgoKCgoKAAoKCgoKCgAKCgoKCgoTCgoKCgoKCgoACgoKCgoKCgoKCgoKCgoKCgoK6woKCgoKCgoKCgoK
+        AAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKAAoKCgoKCgoKABAKCgoKQwoKCgoKCgr3CgoK
+        CgoKCgrqCgoKCgoKCgoKCgoKCgoKCgoKCkMKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKAAoKCgoKCgoKCgAUCgoUAAoKCgoKCgoACgoKCgoKCgoOCgoKCgoKCgoKCgoKCgoKCgoK
+        CgAOCgoKCgoKCgoKCuwKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgAKCgoKCgoKCgAKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoK9woKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgAKFAoKCgoKCgoKCgrsAAoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgAKCgoKCgoKCuoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoQAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgAKCgoKCgoKCg4K
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKAOoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCuoKCgoKCgoK
+        CgoKAAAKCgoKCgoKCgoKCgoKCgoKCgoKCgoACgoKCgoKCgoACgoKCgoKCgoKCgoKCgoKCgoKCgoKCvcK
+        CgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgAKCgoKCgoKCgoKAAAKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoACgoKCgoKCgoUAAoKCgoKCgoKCgoKCgoKCgoKCgoKCvcKCgoKCgoK7AAKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgrqCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoACgoKCgoKCgoKAAoKCgoKCgoKCgoK
+        CgoKCgoKCgoKAA4KCgoKCgoK7AAKCgoKCgoKCgoKCgoKCgoKCgoKCgoACgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKDgAKCgoKCgoKFAoKCgoKCgoKCgoKCgoKCgoKCgoK9woKCgoKCgoK7AAKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKEAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAAKCgoKCgoK
+        CgAKCgoKCgoKCgoKCgoKCgoKCgoK7AoKCgoKCgoK7AAKCgoKCgoKCgoKCgoKCgoKCgoKCgoK6goKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAAKCgoKCgoKChAKCgoKCgoKCgoKCgoKCgoKCgoKEwoK
+        CgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoACgoKCgoKCgoKCgoKCgoKCgoK7AoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoK
+        CgoKCgoKCgoKAA4KCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKChQKCgoKCgoKCgoKDgAKCgoKCgoKCgoKCgoKCgoKCgAOCgoKCgrqCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgAKCgoKCgoK
+        CgoKCkMACgoKCgoKCgoKCgoKCgoKCgoA6xQU6gAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgDqCgoKCgoKCgoKCgpDAAoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgAAAAoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoADgoKCgoKCgoKCgoKDgAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoOAAoKCgoKCgoKCgoKCgoK
+        CgoKCgoK6woKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoACgoK
+        CgoKCgoKCgoKCgoKCgoKCgoACgoKEwoKCgoKCgoKCgoKCgoKCgoKCgoKEAoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKAOoKCgoKCgoKCgoKCgoKFAAKCgoKCgoKCgoKCgoKCgoKAOsKCgoKCuwK
+        CgoKCgoKCgoKCgoKCgoKCgr3CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAABDCgoK
+        CgoKCgoKCgoKCgoACgoKCgoKCgoKCgoKCgDsDgoKCgoKCgr3CgoKCgoKCgoKCgoKCgoKCgAOCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgAADgoKCgoKCgoKCgoKCgoKQ+wACgoKCgoKCgoA
+        6w4KCgoKCgoKCgoK9woKCgoKCgoKCgoKCgoKABMKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgAOCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoQ9woKCgoKCgoK
+        CgBDCgoKCgoKCgoKCgoK7AoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoAEAoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg4AAAAAAAAAFAoKCgoKCgoKCgoKCgoQAAoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAEMKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKQwoKCgoKCgoKCgoKCgoKCgoAAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgDrCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        ChMACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKABAKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKQwAKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgrsDgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoOAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAOwOCgoK
+        CgoKCgoKCgoKCgoKCgoKChMACgAOCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg4AAAoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKABMKCgoKCgoKCgoKCgoKCkPsAAoKCgAAQwoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKFAAACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoA7OsUFBAKCkMUFOwAAAoKCgoKCgoACuwOCgoKCgoKCgoKCgoKCgoKCgoKCg7sCgAK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoA7BAKCgoKCgoKCgoKCgoKCgoKAAAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgAA6xAKCgoKCgoK
+        CgoKQwAACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoAAAAAFBQU7AAAAAoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoACgoKCgAKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCv//
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ///4AB/////////////gAAf///////////+AAAH///////////8AAAD///////////4AAAB/////////
+        //gAAAA///////////AAAAAf/////////+AAAAAf/////////8AAGAAP/////////4AD/4AP////////
+        /wAH/8AH/////////gAP/+AH/////////AAf//AH////////+AB4D/gH////////8AD4B/gH////////
+        8AH4B/gH////////4APwB/gH////////4APwB/AH////////wAfwB+AP////////wA/wA8AP////////
+        wB/4AAAP////////wB/4AAAf////////wD/4AAA/////////gD/4AAB/////////gD/8AAD/////////
+        gD/+AAD/////////AH//gAP/////////AH//4B//////////AH////4D///////+AP////AAP//////+
+        AP///8AAD//////+AP///wAAAf/////8AP///gAAAH/////8Af///gAAAD/////8Af///AAAAD/////8
+        Af///AAAAA/////8Af///AD4AAf////8Af//+AH/AAP////8A///+AP/wAH////8A///+AP/4AD////8
+        A///+AP/8AB////8A///+AP//AB////8A//n+AP//gA////8Af+B+AP//wAP///8Af+B/AP//4AP///8
+        Af8B/AH//8AH///8Af8B/AH//8AH///8Af8B/AH//8AD///8AP+B/AD//+AD///+AP/D/gD///AA///+
+        AP///gD///gAf//+AH///wD///wAf//+AH///wD///wAf///AH///wD///4Af///AD///wB///4AP///
+        AD///wB///8AP///gB///gB///8AP///gB///gB///8AP///gA///gD///+AP///wA///gD///+AP///
+        wAf//wD///+AP///wAP//4D///+AP///4AH//8P///+AP///4AD///////+AP///8AB///+f//8AP///
+        +AA///8P//8AP///+AAP//wH//4AP////AAH//AD//4AP////gAA/8AB//wAP////4AAAAAAP/AAP///
+        /8AAAAAAH8AAf////+AAAAAAAAAA//////AAAAAAAAAA//////wAAAAAAAAB//////4AAACAAAAD////
+        //+AAAHAAAAH///////wAAfgAAAP///////8AH/wAAAf///////////8AAD/////////////gAP/////
+        /////////h//////////////////////////////////////////////////////////////////////
+        /////////////ygAAAAgAAAAQAAAAAEACAAAAAAAAAQAAAAAAAAAAAAAAAEAAAABAAAAAAAAAACAAACA
+        AAAAgIAAgAAAAIAAgACAgAAAwMDAAMDcwADwyqYABAQEAAgICAAMDAwAERERABYWFgAcHBwAIiIiACkp
+        KQBVVVUATU1NAEJCQgA5OTkAgHz/AFBQ/wCTANYA/+zMAMbW7wDW5+cAkKmtAAAAMwAAAGYAAACZAAAA
+        zAAAMwAAADMzAAAzZgAAM5kAADPMAAAz/wAAZgAAAGYzAABmZgAAZpkAAGbMAABm/wAAmQAAAJkzAACZ
+        ZgAAmZkAAJnMAACZ/wAAzAAAAMwzAADMZgAAzJkAAMzMAADM/wAA/2YAAP+ZAAD/zAAzAAAAMwAzADMA
+        ZgAzAJkAMwDMADMA/wAzMwAAMzMzADMzZgAzM5kAMzPMADMz/wAzZgAAM2YzADNmZgAzZpkAM2bMADNm
+        /wAzmQAAM5kzADOZZgAzmZkAM5nMADOZ/wAzzAAAM8wzADPMZgAzzJkAM8zMADPM/wAz/zMAM/9mADP/
+        mQAz/8wAM///AGYAAABmADMAZgBmAGYAmQBmAMwAZgD/AGYzAABmMzMAZjNmAGYzmQBmM8wAZjP/AGZm
+        AABmZjMAZmZmAGZmmQBmZswAZpkAAGaZMwBmmWYAZpmZAGaZzABmmf8AZswAAGbMMwBmzJkAZszMAGbM
+        /wBm/wAAZv8zAGb/mQBm/8wAzAD/AP8AzACZmQAAmTOZAJkAmQCZAMwAmQAAAJkzMwCZAGYAmTPMAJkA
+        /wCZZgAAmWYzAJkzZgCZZpkAmWbMAJkz/wCZmTMAmZlmAJmZmQCZmcwAmZn/AJnMAACZzDMAZsxmAJnM
+        mQCZzMwAmcz/AJn/AACZ/zMAmcxmAJn/mQCZ/8wAmf//AMwAAACZADMAzABmAMwAmQDMAMwAmTMAAMwz
+        MwDMM2YAzDOZAMwzzADMM/8AzGYAAMxmMwCZZmYAzGaZAMxmzACZZv8AzJkAAMyZMwDMmWYAzJmZAMyZ
+        zADMmf8AzMwAAMzMMwDMzGYAzMyZAMzMzADMzP8AzP8AAMz/MwCZ/2YAzP+ZAMz/zADM//8AzAAzAP8A
+        ZgD/AJkAzDMAAP8zMwD/M2YA/zOZAP8zzAD/M/8A/2YAAP9mMwDMZmYA/2aZAP9mzADMZv8A/5kAAP+Z
+        MwD/mWYA/5mZAP+ZzAD/mf8A/8wAAP/MMwD/zGYA/8yZAP/MzAD/zP8A//8zAMz/ZgD//5kA///MAGZm
+        /wBm/2YAZv//AP9mZgD/Zv8A//9mACEApQBfX18Ad3d3AIaGhgCWlpYAy8vLALKysgDX19cA3d3dAOPj
+        4wDq6uoA8fHxAPj4+ADw+/8ApKCgAICAgAAAAP8AAP8AAAD//wD/AAAA/wD/AP//AAD///8ACgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKChQKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoACgoKCgoK
+        CgoKCgoKCgoKCgoKCgoOCgoKFAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCgAKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKFAoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKEAoKCgoKCgoKCgoKCgoKCgoKCgoKDgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoOCgoKCgoKCgoAFBMKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKChQKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoK6goACgoKCuoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKFAoKCkMKCgoKCgoK
+        CgoKCgoACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoACgrqCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKEAoKCgoKCgoKCgoUCgoKCgoKCgoKCgoKCgoKCgrqCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAAoKCkMKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgAKCgoKCgoKCgoKCgoKDgoKCgoK
+        CgoKCgoKChAKCgpDCgoKCgoKCgoKCgoKCgoKAAoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        Cg4KCgoKCgoKDgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+        CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCv//
+        ///////////////wf///4B///4AP//8HD//+D4///jHP//wxj//8cA///Hgf//j8f//4/4H/+P8Af/j+
+        ED/4/jwf+P4/H/jmP4/45h+H+P8fw/h/H8P8fx/j/D8f4/wf/+P+D8/D/wADg/+AAAf/4CAP///4H///
+        ////////
+</value>
+  </data>
+</root>
