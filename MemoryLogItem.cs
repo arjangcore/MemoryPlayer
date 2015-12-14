@@ -7,7 +7,7 @@ namespace MemoryPlayer
 	/// A single memory log entry, like allocate, free or label.
 	/// </summary>
     public class MemoryLogItem
-	{
+	{ // comment...
         public enum ItemType { Alloc, Free, Label, Size }
         private static String[] ItemTypeName = {"ALLOC", "FREE", "LABEL", "SIZE"};
 
